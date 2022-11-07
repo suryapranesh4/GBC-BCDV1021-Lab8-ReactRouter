@@ -1,12 +1,12 @@
-George Brown College - Blockchain Development T175
+# React-Router 
 
-BCDV1021 - Frontend || FullStack - 1
-
-## Lab 8 - React Router
+An example of a react application and how routing is implemented using the most popular react router package : react-router-dom
 
 
-  Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lab8-ReactRouter.git <br />
-  cd my-app <br />
+#### Instructions :
+
+  git clone : https://github.com/suryapranesh4/React-Router.git <br />
+  cd React-Router <br />
   npm install <br />
   npm start
 
